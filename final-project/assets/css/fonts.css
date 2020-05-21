@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'CormorantUpright-Bold';
+    src: url('/assets/fonts/CormorantUpright-Bold.woff2') format('woff2'),
+        url('/assets/fonts/CormorantUpright-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CormorantUpright-Light';
+    src: url('/assets/fonts/CormorantUpright-Light.woff2') format('woff2'),
+        url('/assets/fonts/CormorantUpright-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CormorantUpright-SemiBold';
+    src: url('/assets/fonts/CormorantUpright-SemiBold.woff2') format('woff2'),
+        url('/assets/fonts/CormorantUpright-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CormorantUpright-Medium';
+    src: url('/assets/fonts/CormorantUpright-Medium.woff2') format('woff2'),
+        url('/assets/fonts/CormorantUpright-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CormorantUpright-Regular';
+    src: url('/assets/fonts/CormorantUpright-Regular.woff2') format('woff2'),
+        url('/assets/fonts/CormorantUpright-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CrimsonText-Regular';
+    src: url('/assets/fonts/CrimsonText-Regular.woff2') format('woff2'),
+        url('/assets/fonts/CrimsonText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CrimsonText-SemiBold';
+    src: url('/assets/fonts/CrimsonText-SemiBold.woff2') format('woff2'),
+        url('/assets/fonts/CrimsonText-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CrimsonText-Italic';
+    src: url('/assets/fonts/CrimsonText-Italic.woff2') format('woff2'),
+        url('/assets/fonts/CrimsonText-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CrimsonText-BoldItalic';
+    src: url('/assets/fonts/CrimsonText-BoldItalic.woff2') format('woff2'),
+        url('/assets/fonts/CrimsonText-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CrimsonText-Bold';
+    src: url('/assets/fonts/CrimsonText-Bold.woff2') format('woff2'),
+        url('/assets/fonts/CrimsonText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CrimsonText-SemiBoldItalic';
+    src: url('/assets/fonts/CrimsonText-SemiBoldItalic.woff2') format('woff2'),
+        url('/assets/fonts/CrimsonText-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+

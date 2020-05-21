@@ -1,0 +1,109 @@
+h2 {
+    font-family: CrimsonText-SemiBold;
+    font-size: 31px;
+    line-height: 1.39;
+    font-weight: 600;
+}
+
+h3 {
+    font-family: CrimsonText-Regular;
+    font-size: 25px;
+    line-height: 1.36;
+}
+h3.alt {
+    font-family: CormorantUpright-Medium;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #daa520;
+}
+@media (min-width: 1024px) {
+    h3.alt {
+        font-size: 35px;
+    }
+}
+@media (min-width: 1920px) {
+    h3.alt {
+        font-size: 40px;
+    }
+}
+
+h4 {
+    font-family: CrimsonText-Regular;
+    font-size: 25px;
+    line-height: 1.36;
+    font-weight: 500;
+}
+@media (min-width: 1024px) {
+    h4 {
+        font-size: 20px;
+    }
+}
+@media (min-width: 1920px) {
+    h4 {
+        font-size: 25px;
+    }
+}
+
+h5 {
+    font-family: CormorantUpright-Medium;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+h5.large {
+    font-size: 30px;
+}
+
+.standard-button {
+    position: relative;
+    padding: 10px 25px;
+    border: solid 1px #daa520;
+    font-family: CormorantUpright-Medium;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #ffffff;
+    background-color: transparent;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+@media (min-width: 769px) {
+    .standard-button {
+        font-size: 20px;
+        line-height: 1.2;
+        padding: 16px 46px;
+    }
+}
+@media (min-width: 1024px) {
+    .standard-button {
+        font-size: 25px;
+        padding: 5px 12px;
+    }
+}
+
+@media (min-width: 1920px) {
+.standard-button {
+    padding: 10px 25px;
+}
+}
+
+.standard-button:hover {
+    border-color: #daa520;
+    color: #fff;
+    background-color: #daa520;
+}
+
+
+
+.separator {
+    font-size: 15px;
+    line-height: 1.41;
+    letter-spacing: 3.66px;
+    color: #daa520;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
